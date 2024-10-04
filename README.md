@@ -1,3 +1,3 @@
 # cinthias
-It is an awader website.
+It is an awaded website.
 This is My first Project using HTML CSS JavaScript
